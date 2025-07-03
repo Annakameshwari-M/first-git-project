@@ -18,4 +18,5 @@ If you have a C++ compiler installed (like `g++`), you can compile and run the p
 ```bash
 g++ hello.cpp -o hello
 ./hello
-
+Hello, GitHub!
+```
