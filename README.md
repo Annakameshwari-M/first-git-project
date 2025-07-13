@@ -1,22 +1,27 @@
-# First Git Project
+# First Git Project 🚀
 
-This is my first GitHub repository, created to learn the basics of Git, GitHub, and version control. The main focus is writing and tracking a simple C++ program.
+This is my first GitHub repository — created to learn Git, GitHub, and C++ basics.
 
 ## 👩‍💻 Project Content
+- `hello.cpp` – A simple C++ program that prints a welcome message.
+- `.gitignore` – Prevents `.exe` files from being pushed.
 
-This repository contains a basic C++ program called `hello.cpp` that prints a message to the console.
-
-## 📂 Files
-
-- `hello.cpp` – A simple "Hello, GitHub!" C++ program  
-- `.gitignore` – Ignores `.exe` files from being pushed to GitHub
+## 🧠 What I Learned
+- How to use Git commands (`git init`, `add`, `commit`, `push`)
+- How to create branches and make commits
+- How to manage a GitHub repository
 
 ## 🛠️ How to Run
-
-If you have a C++ compiler installed (like `g++`), you can compile and run the program using the terminal or command line:
-
 ```bash
 g++ hello.cpp -o hello
 ./hello
-Hello, GitHub!
-```
+
+## 🧪 Skills Practiced
+- C++
+- Git
+- GitHub
+- Version Control
+
+## 📬 Connect with me
+[LinkedIn](https://www.linkedin.com/in/annakameshwari-m)
+
